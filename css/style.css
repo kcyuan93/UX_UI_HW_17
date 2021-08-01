@@ -1,0 +1,98 @@
+#navBar {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 8%;
+  }
+  #navBar h1 {
+    width: 100%;
+    font-size: 28pt;
+    align-items: center;
+  }
+  .icons {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: ;
+  }
+  .icons img {
+    margin: 10px;
+    cursor: pointer;
+  }
+
+.location {
+    display: flex;
+    flex-direction: row;
+    align-items:baseline;
+    margin-left: 8%;
+    margin-top: 35px
+}
+.location p {
+    margin-left: 5px;
+    font-size: 21px;
+}
+.location img {
+    height: 16px;
+}
+
+.about {
+    display: flex;
+    flex-direction: row;
+    align-items:baseline;
+    margin-left: 8%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.about p {
+    font-size: 38pt;
+    width: 50%;
+}
+
+.button {
+    margin-left: 8%;
+    margin-top: 0px;
+    height: 40px;
+    width: 160px;
+    text-align: center;
+    font-size: 18pt;
+}
+
+.work {
+    display: flex;
+    flex-direction: column;
+    align-items:baseline;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+.work img {
+    width: 100%;
+    height: auto;
+}
+.work p {
+    margin-bottom: 100px;
+    font-size: 21px;
+}
+.work h2 {
+    font-size: 28pt;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 100px;
+    justify-content:space-between;
+}
+.footer h2 {
+    list-style: none;
+    padding-left: 0;
+    font-size: 18pt;
+}
+.footer ul {
+    list-style: none;
+    padding-left: 0;
+    font-size: 15pt;
+}
