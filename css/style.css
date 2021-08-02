@@ -52,6 +52,10 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+.about u {
+    cursor: pointer;
+}
+
 .button {
     margin-left: 9%;
     margin-top: 0px;
