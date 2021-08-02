@@ -48,7 +48,7 @@
 .about p {
     font-size: 38pt;
     font-weight: 1000;
-    width: 65%;
+    width: 55%;
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -92,10 +92,10 @@
 .footer {
     display: flex;
     flex-direction: row;
-    margin-top: 150px;
+    margin-top: 130px;
     margin-left: 9%;
     margin-right: 9%;
-    margin-bottom: 110px;
+    margin-bottom: 100px;
     justify-content:space-between;
 }
 .footer h2 {
